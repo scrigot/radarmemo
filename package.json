@@ -11,11 +11,14 @@
   "dependencies": {
     "@ai-sdk/anthropic": "^3.0.71",
     "@ai-sdk/gateway": "^3.0.104",
+    "@supabase/supabase-js": "^2.104.0",
     "ai": "^6.0.168",
     "dotenv": "^17.4.2",
+    "marked": "^18.0.2",
     "next": "16.2.4",
     "react": "19.2.4",
     "react-dom": "19.2.4",
+    "resend": "^6.12.2",
     "rss-parser": "^3.13.0",
     "tsx": "^4.21.0",
     "zod": "^4.3.6"
